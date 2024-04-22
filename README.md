@@ -10,3 +10,5 @@ Github: https://github.com/breaakerr
 Materia: Electronica Microcontrolada
 
 Institución: Instituto Superior Politecnico de Cordoba
+
+Docente: Gonzalo Cristian Vera
