@@ -1,3 +1,3 @@
-![alt text](C:\Users\Usuario\Documents\GitHub\src\LOGO.png)
+![LOGO](https://github.com/ISPC-TST-EM-2024/MNRP-ZalazarGustavo-EM/assets/141375378/b0557e5d-3f5c-4f50-8a0e-68deb7a6d40f)
 
 EN ESTA CARPETA SE ENCUENTRA EL DISEÑO EN FORMATO DISPUESTO POR PROTEUS 8.17 Y UN ARCHIVO EXPLICATIVO EN FORMATO PDF 
