@@ -1,5 +1,5 @@
 # MNRP-ZalazarGustavo-EM
-![alt text](\Users\Usuario\Documents\GitHub\src\LOGO.png)
+![alt text](C:\Users\Usuario\Documents\GitHub\src\LOGO.png)
 
 MONOREPOSITORIO DEDICADO A ELECTRONICA MICROCONTROLADA-TECNICATURA SUPERIOR EN TELECOMUNICACIONES 
 
